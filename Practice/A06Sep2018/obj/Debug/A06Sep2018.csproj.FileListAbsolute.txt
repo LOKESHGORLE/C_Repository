@@ -1,0 +1,6 @@
+D:\LOKESH\Practice\A06Sep2018\obj\Debug\A06Sep2018.csproj.CoreCompileInputs.cache
+D:\LOKESH\Practice\A06Sep2018\bin\Debug\A06Sep2018.exe.config
+D:\LOKESH\Practice\A06Sep2018\bin\Debug\A06Sep2018.exe
+D:\LOKESH\Practice\A06Sep2018\bin\Debug\A06Sep2018.pdb
+D:\LOKESH\Practice\A06Sep2018\obj\Debug\A06Sep2018.exe
+D:\LOKESH\Practice\A06Sep2018\obj\Debug\A06Sep2018.pdb

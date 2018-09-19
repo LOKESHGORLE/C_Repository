@@ -1,0 +1,2 @@
+D:\LOKESH\Assignments\A14Sep2018\obj\Debug\A14Sep2018.csprojAssemblyReference.cache
+D:\LOKESH\Assignments\A14Sep2018\obj\Debug\A14Sep2018.csproj.CoreCompileInputs.cache

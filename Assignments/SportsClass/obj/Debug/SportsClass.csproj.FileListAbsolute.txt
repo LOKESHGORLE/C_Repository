@@ -1,0 +1,2 @@
+D:\LOKESH\Assignments\SportsClass\obj\Debug\SportsClass.csprojAssemblyReference.cache
+D:\LOKESH\Assignments\SportsClass\obj\Debug\SportsClass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+﻿requirements
+1. Winner of the match
+2. Man Of The Match
+3. Highest Scorer Of The Team
